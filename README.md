@@ -1,4 +1,4 @@
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3g2MHJ0bXNpY2IxcDBqeGk1ZGZuaWVxYXMya2h0YzhhMmVuMDR0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/InxJz8Yeur2TYm90rg/giphy.gif" align="right" width="250" alt="Levi Sticker" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3g2MHJ0bXNpY2IxcDBqeGk1ZGZuaWVxYXMya2h0YzhhMmVuMDR0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/InxJz8Yeur2TYm90rg/giphy.gif" align="right" width="120" alt="Levi Sticker" />
 
 # Timothy Sushchenia
 **`UMCS student, studying computer science`**
